@@ -1,1 +1,4 @@
 This project aims to provide a robust client data validation system focusing on secure login and registration processes. Developed using modern web technologies, the system enables users to register with their email addresses and passwords securely. Upon registration, users can seamlessly log in using the same email address and password combination they used during the registration process. With a strong emphasis on data security and user privacy, this system offers a reliable solution for managing authentication processes in web applications.
+Project output
+![signup](https://github.com/srinath9822/client_data_validation_system/assets/116694532/a895ba4f-7bbc-4703-b4a0-429393c7280c)
+![login](https://github.com/srinath9822/client_data_validation_system/assets/116694532/c25d212b-b589-4be4-b1e4-bff74bf27aaf)
